@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="258b62a8-1551-4db0-8d84-7759aa2b3d01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.idea/TDD_ZDJAVApol1-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/UnitTestBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/calc/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/calc/arithmetic/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/geometry/GeometryCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/geometry/polygons/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/geometry/polygons/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/geometry/polygons/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/personal/PersonalDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/main/java/personal/person/Pesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/test/java/calc/arithmetic/AddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/test/java/geometry/polygons/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ZDJAVApol1-master/src/test/java/personal/PeselTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d3U1bjmYBlnrymVO2IPbp6tUHs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="258b62a8-1551-4db0-8d84-7759aa2b3d01" name="Default Changelist" comment="" />
+      <created>1591653055803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591653055803</updated>
+    </task>
+    <servers />
+  </component>
+</project>
